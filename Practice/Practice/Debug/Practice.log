@@ -1,0 +1,4 @@
+﻿  PassByValue.c
+Source.obj : error LNK2005: _ComputeChange already defined in Struct.obj
+Source.obj : error LNK2005: _main6 already defined in Struct.obj
+C:\Users\david\Desktop\School - Fall 2018\COP 2220\Practice\Debug\Practice.exe : fatal error LNK1169: one or more multiply defined symbols found
